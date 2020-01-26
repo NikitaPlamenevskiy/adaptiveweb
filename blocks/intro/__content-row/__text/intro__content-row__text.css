@@ -1,0 +1,6 @@
+@import url('./_paragraph-left/intro__content-row__text_paragraph-left.css');
+@import url('./_paragraph-right/intro__content-row__text_paragraph-right.css');
+
+.intro__text{
+    margin: 0;
+}

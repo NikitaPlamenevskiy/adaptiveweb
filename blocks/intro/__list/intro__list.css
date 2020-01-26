@@ -1,0 +1,5 @@
+@import url('./__paragaraph/list__paragraph.css');
+    
+.intro__list{
+    max-width: 383px;
+}

@@ -1,0 +1,10 @@
+@import url('./place/place.css');
+
+.places{    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 984px;
+    margin: 0 auto;
+    margin-top: 92px;
+}

@@ -1,0 +1,15 @@
+@import url('./__link/footer__link.css');
+@import url('./__copyright/footer__copyright.css');
+@import url('./links/links.css');
+@import url('menu-name/footer__menu-name.css');
+
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 160px;
+    padding-bottom: 48px;
+    max-width: 1184px;
+    height: 25px;
+}
